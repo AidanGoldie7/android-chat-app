@@ -10,10 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChatApplication">
 
-        <activity android:name=".activities.SignUpActivity"
+        <activity
+            android:name=".activities.SignUpActivity"
             android:windowSoftInputMode="adjustResize"/>
 
-        <activity android:name=".activities.SignInActivity"
+        <activity
+            android:name=".activities.SignInActivity"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
