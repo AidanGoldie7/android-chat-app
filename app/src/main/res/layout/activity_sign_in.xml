@@ -77,7 +77,15 @@
             android:cornerRadius="@dimen/_8sdp" />
 
 
-
+        <TextView
+            android:id="@+id/textCreateNewAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:text="Create New Account"
+            android:textColor="@color/primary"
+            android:textSize="@dimen/_13ssp"
+            android:textStyle="bold"/>
 
 
     </LinearLayout>
