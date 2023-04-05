@@ -85,7 +85,7 @@
             android:text="Create New Account"
             android:textColor="@color/primary"
             android:textSize="@dimen/_13ssp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
 
     </LinearLayout>
