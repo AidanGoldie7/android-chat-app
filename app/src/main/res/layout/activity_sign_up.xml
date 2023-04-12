@@ -119,6 +119,16 @@
             android:textStyle="bold"
             android:cornerRadius="@dimen/_8sdp" />
 
+        <TextView
+            android:id="@+id/textSignIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="Sign In"
+            android:textColor="@color/primary"
+            android:textSize="@dimen/_13ssp"
+            android:textStyle="bold" />
+
 
 
 
