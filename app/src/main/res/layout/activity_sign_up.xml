@@ -117,7 +117,7 @@
             android:textColor="@color/white"
             android:textSize="@dimen/_13sdp"
             android:textStyle="bold"
-            android:cornerRadius="@dimen/_8sdp" />
+             />
 
         <TextView
             android:id="@+id/textSignIn"
